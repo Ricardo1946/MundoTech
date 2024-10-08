@@ -1,0 +1,16 @@
+h1{
+    background-color: lightblue;
+    opacity: 0.2;
+}
+a {
+    color:blue
+}
+p.a{
+    background-color: lightblue;
+    color: grey;
+    text-align-last: right;
+    text-indent: 50px;
+}
+p{
+    background-color: hsla(250, 19%, 76%, 0.62);
+}

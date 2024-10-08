@@ -1,0 +1,16 @@
+body {
+    font-size: 40px;
+    color: blue;
+    background-image: url("https://images.unsplash.com/photo-1727091462554-a36e6136b6ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8");
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+}   
+
+h1{
+    color: pink;
+}
+li{
+    color: brown;
+}
+

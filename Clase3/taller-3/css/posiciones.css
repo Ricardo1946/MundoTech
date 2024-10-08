@@ -1,0 +1,47 @@
+
+#cabecera{
+    background-color:  blue;
+    position: absolute;
+    top:2%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+}
+
+ #indice{
+    background-color: green;
+    position: absolute;
+    top: 13%;
+    left: 2%;
+    width: 27%;
+    height: 75%;
+
+ }
+
+ #contenido{
+    background-color: aqua;
+    position: absolute;
+    top: 13%;
+    left: 30%;
+    width: 65%;
+    height: 75%;
+ }
+
+ #pie{
+    background-color:  yellow;
+    position: absolute;
+    top:89%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+ }
+#cabecera,
+#indice,
+#contenido,
+#pie{
+    border: solid;
+}
+
+#imagen 
+
+   

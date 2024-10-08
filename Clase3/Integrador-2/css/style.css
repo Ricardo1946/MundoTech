@@ -1,0 +1,25 @@
+
+#receta1, #receta2 {
+    background-color: grey;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#receta1 img, #receta2 img {
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+#suscribet {
+    background-color: orange;
+    color: white;
+    padding: 30px;
+    margin-top: 30px;
+}
+ h1{
+font-size: 50px;
+color: red;
+}

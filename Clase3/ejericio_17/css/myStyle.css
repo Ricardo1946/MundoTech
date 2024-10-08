@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse ;
+    width: 100%;
+}
+tr, td {
+    border: 2px, solid #f12727;
+    padding: 5px;
+    text-align: center
+}
+tr {
+    background-color: #444;
+}
+td {
+    background-color: #198d9d ;
+
+}
+tr:hover {
+    background-color: #c7d13d;
+}
+h1 {
+    color: blue;
+    font-style: oblique;
+}

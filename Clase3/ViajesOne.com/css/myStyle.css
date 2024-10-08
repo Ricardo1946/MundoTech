@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    display: flex; 
+    align-items: center; 
+    padding: 20px 60px; 
+    background-color: greenyellow; 
+    color: rgb(28, 24, 24); 
+}
+h1{
+    margin: 0; 
+    font-size: 2em;
+    
+}
+header img {
+    height: 50px;
+    margin: 10px; 
+}
+nav{
+    display: flex; 
+    align-items: center; 
+    padding: 9px 10px; 
+    background-color: green; 
+    color: rgb(230, 242, 242);
+}
+a {
+    color: bisque;
+}
+.photo {
+    display: flex; 
+    justify-content: center; 
+    width: 100%; 
+}
+
+.photo img {
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
+}

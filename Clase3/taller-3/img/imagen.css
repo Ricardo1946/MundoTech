@@ -1,0 +1,9 @@
+
+#imagen {
+    float: right;
+    /*Posicionamos la imagen a la derecha con el
+    texto “flotando” a la izquierda*/
+    width: 11%;
+    /*Definimos el tamaño de la caja como un 11% de la anchura de la caja
+    “contenido”*/
+    }

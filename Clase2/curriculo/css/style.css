@@ -1,0 +1,22 @@
+body{
+    background: black;
+    color: white;
+    font-family: Arial;
+    
+}
+
+h1{
+    color: green; 
+    max-width: 800px;
+    padding: 40px;
+}
+h3{
+    padding: 20px;
+    color: yellow;
+}
+li{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 8px;
+    color: goldenrod;
+}
